@@ -27,26 +27,54 @@
     justify-content: space-around;
 }
 .sho1{
-    padding: 30px;
+    padding:20px;
     background-color: #333;
 }
 .sho2{
-   padding: 30px;
+   padding: 20px;
     background-color: #333;
 }
 .sho3{
-    padding: 30px;
+    padding: 20px;
     background-color: #333;
 }
 .sho4{
-    padding: 30px;
+    padding: 20px;
     background-color: #333;
 }
 .sho5{
-    padding: 30px;
+    padding: 20px;
     background-color: #333;
 }
 .sho6{
-    padding: 30px;
+    padding: 20px;
     background-color: #333;
+}
+
+.gdmrpto{
+    display: flex;
+    flex-direction: row;
+}
+
+.gdmrpto div{
+    display: flex;
+    flex-direction: row;
+}
+
+.gdmr1{
+    position: relative;
+    left:230px;
+    bottom: 108vh;
+}
+
+.side{
+    height: 100vh;
+}
+
+body{
+    background-color: #333;
+}
+
+p,div{
+    color: white;
 }
